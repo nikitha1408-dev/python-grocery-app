@@ -46,7 +46,7 @@ A **GUI-based grocery shopping system** built with **Python & Tkinter** featurin
 ![Billing](BillingSection.jpg)
 
 ## 🍎 Stock
-![Stock](screenshots/Stock.jpg)
+![Stock](Stock.jpg)
 
 ## 📊 Monthly Report  
 ![Report](MonthlyReport.jpg)
