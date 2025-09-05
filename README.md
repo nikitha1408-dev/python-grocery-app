@@ -52,7 +52,7 @@ A **GUI-based grocery shopping system** built with **Python & Tkinter** featurin
 ![Report](MonthlyReport.jpg)
 
 ## 🎟️ Offers & Coupons  
-![Offers](Offers&Coupons.jpg)  
+![Offers](OffersAndCoupons.jpg)  
 
 ---
 
